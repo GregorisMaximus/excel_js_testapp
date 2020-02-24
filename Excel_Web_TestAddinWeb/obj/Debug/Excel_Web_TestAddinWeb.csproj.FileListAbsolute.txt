@@ -1,0 +1,110 @@
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Excel_Web_TestAddinWeb.dll.config
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Excel_Web_TestAddinWeb.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Excel_Web_TestAddinWeb.pdb
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csc.exe
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csc.exe.config
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csc.rsp
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csi.exe
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csi.exe.config
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csi.rsp
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Console.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\vbc.exe
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\vbc.exe.config
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\vbc.rsp
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.csproj.CoreCompileInputs.cache
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.csproj.CopyComplete
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.dll
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.pdb
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Excel_Web_TestAddinWeb.dll.config
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Excel_Web_TestAddinWeb.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Excel_Web_TestAddinWeb.pdb
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csc.exe
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csc.exe.config
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csc.rsp
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csi.exe
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csi.exe.config
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\csi.rsp
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.AppContext.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Console.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\vbc.exe
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\vbc.exe.config
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\vbc.rsp
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.csproj.CoreCompileInputs.cache
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.csproj.CopyComplete
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.dll
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddinWeb\obj\Debug\Excel_Web_TestAddinWeb.pdb

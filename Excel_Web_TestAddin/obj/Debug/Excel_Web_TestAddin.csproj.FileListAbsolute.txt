@@ -1,0 +1,3 @@
+C:\Users\Erik the best\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddin\obj\Debug\Excel_Web_TestAddin.csproj.CoreCompileInputs.cache
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddin\obj\Debug\Excel_Web_TestAddin.csproj.CoreCompileInputs.cache
+C:\Users\teig1\source\repos\Excel_Web_TestAddin\Excel_Web_TestAddin\obj\Debug\Excel_Web_TestAddin.csprojAssemblyReference.cache
